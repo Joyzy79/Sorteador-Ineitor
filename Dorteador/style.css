@@ -1,0 +1,65 @@
+*{
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+ 
+}
+body{
+background: radial-gradient(circle, rgb(134, 40, 45) 21%, rgb(58, 57, 97) 100%);
+}
+h1{
+    font-size: 50px;
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:0px;
+}
+h2{
+    font-size: 30;
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
+    padding-bottom: 20px;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    height: 30px;
+    font-size: 50px;
+}
+input{
+    display: flex;
+    border: none;
+    width: 30%;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.input-placeholder{
+    font: bold;
+    margin: 10px;
+}
+button{
+    width: 70px;
+    border-radius: 7px;
+    background: rgb(34,167,163);
+    background: radial-gradient(circle, rgba(34,167,163,1) 17%, rgba(15,13,125,1) 52%);
+    font-size: medium;
+    color: antiquewhite;
+    border: none;
+}/*esperimenta por o botão em uma div separada*/
+button:hover{
+    cursor: pointer;
+    background-color:rgba(3,247,2,1) ;
+    opacity: 0.9;
+    transition: 0.3s;
+    border: none;
+    margin: 3px;
+}
