@@ -23,3 +23,4 @@ O SorteadorIneitor tem diversas aplicações práticas e pode ser usado em vári
 5. Aprendizado e prática de programação: O SorteadorIneitor também pode ser uma ótima ferramenta para aprender e praticar habilidades de programação, desde a manipulação de elementos HTML até a lógica de programação para sortear números aleatórios.
 
 Então, prepare-se para a adrenalina do sorteio com o SorteadorIneitor! Divirta-se e deixe a sorte decidir por você. Afinal, quem precisa fazer escolhas quando se tem um sorteador tão divertido?
+![screencapture-6481c057d52e6018e0a715a0-glistening-pavlova-0deae8-netlify-app-2023-06-08-12_51_09](https://github.com/Joyzy79/Sorteador-Ineitor/assets/129207028/31b94e69-a8de-41cd-b33c-f23663fd67e2)
